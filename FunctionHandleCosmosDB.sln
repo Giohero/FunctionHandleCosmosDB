@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionHandleCosmosDB", "FunctionHandleCosmosDB.csproj", "{369A2E71-A6B1-41AD-A05F-E9CADD858DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{369A2E71-A6B1-41AD-A05F-E9CADD858DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369A2E71-A6B1-41AD-A05F-E9CADD858DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369A2E71-A6B1-41AD-A05F-E9CADD858DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369A2E71-A6B1-41AD-A05F-E9CADD858DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D38C0F-8968-4552-8BDE-AE66DB95F52D}
+	EndGlobalSection
+EndGlobal
